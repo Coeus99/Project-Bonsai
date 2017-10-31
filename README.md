@@ -1,4 +1,4 @@
-This is to be a bonsai tree monitor. It is a work in progress, currently using an Arduino Uno, the TFT LCD screen by arduino, and the I2C Soil Moisture Sensor by Catnip Electronics.
+This is to be a bonsai tree monitor. It is a work in progress, currently using an Arduino Uno, the TFT LCD screen by Arduino, and the I2C Soil Moisture Sensor by Catnip Electronics.
 
 Libraries used include:
 SD.h (bulit-in)
